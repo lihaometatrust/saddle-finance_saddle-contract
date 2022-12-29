@@ -180,7 +180,7 @@ const config: HardhatUserConfig = {
   },
   paths: {
     sources: "./contracts",
-    artifacts: "./build/artifacts",
+    artifacts: "./build",
     cache: "./build/cache",
   },
   solidity: {
